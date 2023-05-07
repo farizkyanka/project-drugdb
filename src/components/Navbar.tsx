@@ -6,7 +6,7 @@ export default function Navbar() {
           className="container flex justify-center max-w-screen-lg mx-auto md:px-4"
           aria-label="Global"
         >
-          <form className="w-full md:w-1/2">
+          <form className="w-full sm:w-1/2">
             <label
               htmlFor="default-search"
               className="mb-2 text-sm font-medium text-gray-900 sr-only dark:text-white"
